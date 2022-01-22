@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266915679779",
+    "firebase_url": "https://my-ramadan.firebaseio.com",
+    "project_id": "my-ramadan",
+    "storage_bucket": "my-ramadan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266915679779:android:893039a720f33ac59fab96",
+        "android_client_info": {
+          "package_name": "com.example.viewramadany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266915679779-vn22l2cval0b54uop2ud6kfmnlna4qpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viewramadany",
+            "certificate_hash": "76d3d9fdf9b4fbe3ac36ce02f55359c5d8d03366"
+          }
+        },
+        {
+          "client_id": "266915679779-ee5if90kbvot4igrej6k39bjq17eed9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uUpHy888ecnprqhjBlTZK-VpdRQ3oJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266915679779-ee5if90kbvot4igrej6k39bjq17eed9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
